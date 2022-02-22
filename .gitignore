@@ -1,3 +1,10 @@
-nimcache/
-nimblecache/
+.import/
+.nimcache/
+*.import
+godotapi/
 htmldocs/
+logs/
+nakefile
+nimblecache/
+nimcache/
+nimlib/
